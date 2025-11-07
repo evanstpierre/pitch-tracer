@@ -9,7 +9,7 @@ The goals of the repo are the following,
 These are some Repo that have inspired this project. 
 
 
-[ML-auto-baseball-pitching-overlay](https://github.com/chonyy/)
+[ML-auto-baseball-pitching-overlay](https://github.com/chonyy/ML-auto-baseball-pitching-overlay)
 
 [BaseballCV](https://github.com/BaseballCV/BaseballCV)
 
