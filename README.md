@@ -10,5 +10,7 @@ These are some Repo that have inspired this project.
 
 
 [ML-auto-baseball-pitching-overlay](https://github.com/chonyy/)
+
 [BaseballCV](https://github.com/BaseballCV/BaseballCV)
+
 [⛳ Golf Ball Trajectory Visualization](https://github.com/jonibek95/GolfShotTracer)
