@@ -30,6 +30,9 @@ jupyter notebook
 
 ## Baseball detection using YOLO Model
 
+![Pitch without object Detection](examples/data/baseball-pitch.gif)
+
+
 Basic Application of YOLO V9 on a single [pitch](/examples/data/baseball-pitch.mp4)
 
 
