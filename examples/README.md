@@ -28,6 +28,20 @@ jupyter notebook
 ```
 
 
-## Baseball tracking Example 
+## Baseball detection using YOLO Model
+To s
+
+
+Dependencies: 
+- [baseballcv](https://baseballcv.com/)
  
+
+
+### 2D Least Squares 
+Basic Least Squares fitting of porabola (in controlled env) with reconstruction of trajectory in animation.
+
+Dependencies:
+
+
+
  
