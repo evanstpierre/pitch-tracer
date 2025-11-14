@@ -1,0 +1,6 @@
+train: datasets/baseball/train
+val:  datasets/baseball/valid
+test: datasets/baseball/test
+
+nc: 4
+names: ["glove", "homeplate", "baseball", "rubber"]

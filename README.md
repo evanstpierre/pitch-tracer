@@ -35,6 +35,13 @@ Dataset are crucial to the performance of any good model.
 We are using [YOLOv9 annotated Baseball data](https://github.com/BaseballCV/BaseballCV/tree/main/datasets/yolo) from 
 [BaseballCV](https://github.com/BaseballCV/BaseballCV)
 
+Content: Baseball-only annotations, optimized for ball tracking
+
+Distribution:
+- Train: 4,534 images
+- Test: 426 images
+- Valid: 375 images
+
 To download the dataset see [dataset.txt](dataset.txt)
 
 
